@@ -1,3 +1,4 @@
+
     body {
         background-color: #121212;
         color: #ffffff;
@@ -5,6 +6,7 @@
         margin: 0;
         padding: 0;
     }
+    
     header {
         display: flex;
         justify-content: space-between;
@@ -32,7 +34,6 @@
     .service-list {
         display: flex;
         gap: 20px;
-        flex-wrap: wrap;
     }
     .service-item {
         text-align: center;
